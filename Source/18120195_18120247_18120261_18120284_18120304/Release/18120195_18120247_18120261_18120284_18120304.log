@@ -1,0 +1,72 @@
+﻿  console.cpp
+  pch.cpp
+  QFloat.cpp
+  QInt.cpp
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.h(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.h(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(32,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(35,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(46,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(49,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(53,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(56,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(65,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(67,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(70,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(72,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(74,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(77,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(81,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(84,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(94,34): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(96,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(99,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(101,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(103,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(106,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(108,35): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(110,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(113,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(117,13): warning C4244: '=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(120,13): warning C4244: '=': conversion from '__int64' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(243,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(493,19): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(499,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(504,27): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(550,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(592,23): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(606,23): warning C4554: '|': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(620,23): warning C4554: '^': check operator precedence for possible error; use parentheses to clarify precedence
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(715,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(729,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(743,21): warning C4018: '<': signed/unsigned mismatch
+  Source.cpp
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.h(181,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.h(202,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(148,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(177,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(227,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(308,6): warning C4101: 'count': unreferenced local variable
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(401,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(460,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(504,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(512,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(520,22): warning C4018: '>': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(561,28): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(576,36): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(940,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(989,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QFloat.h(996,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\Source.cpp(182,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\Source.cpp(191,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\Source.cpp(200,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\Source.cpp(349,36): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(748): warning C4715: 'QInt::operator<': not all control paths return a value
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(734): warning C4715: 'QInt::operator>': not all control paths return a value
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.cpp(720): warning C4715: 'QInt::operator==': not all control paths return a value
+C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\18120195_18120247_18120261_18120284_18120304\QInt.h(434): warning C4715: 'QInt::out': not all control paths return a value
+  All 423 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  18120195_18120247_18120261_18120284_18120304.vcxproj -> C:\Users\Shiro VV\source\repos\18120195_18120247_18120261_18120284_18120304\Release\18120195_18120247_18120261_18120284_18120304.exe
